@@ -19,7 +19,6 @@ The dismantling module allows users to interactively disassemble the INSAS rifle
 <img width="1599" height="880" alt="Screenshot 2026-04-14 142402" src="https://github.com/user-attachments/assets/2bea7191-b296-4403-a524-f8ae817d650c" />
 <img width="1547" height="849" alt="Screenshot 2026-04-14 142343" src="https://github.com/user-attachments/assets/054813d5-336d-42e9-8176-a5a569512491" />
 <img width="1549" height="882" alt="Screenshot 2026-04-14 142330" src="https://github.com/user-attachments/assets/a95a397e-f707-4241-980f-be2af29a8d95" />
-<img width="1309" height="881" alt="Screenshot 2026-04-14 142311" src="https://github.com/user-attachments/assets/d73bf0c9-ab7b-490a-aaf3-7ef1a8bf032b" />
 <img width="132" height="498" alt="Screenshot 2026-04-14 142300" src="https://github.com/user-attachments/assets/e9de5eb8-5816-4f83-a297-614d067d9c84" />
 <img width="1704" height="885" alt="Screenshot 2026-04-14 141702" src="https://github.com/user-attachments/assets/0fbe520c-f681-4f88-b1c8-badcff8c4bd8" />
 <img width="1724" height="886" alt="Screenshot 2026-04-14 141628" src="https://github.com/user-attachments/assets/564b1e24-804b-4bc8-b08d-4b8589663036" />
